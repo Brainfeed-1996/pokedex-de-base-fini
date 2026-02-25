@@ -1,0 +1,1 @@
+export default function handler(req,res){res.status(200).json({status:'ok',repo:'pokedex-de-base-fini',timestamp:new Date().toISOString()});}

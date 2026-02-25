@@ -1,0 +1,1 @@
+# pokedex-de-base-fini
